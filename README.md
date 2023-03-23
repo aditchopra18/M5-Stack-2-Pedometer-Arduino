@@ -1,6 +1,5 @@
-<h1 align="center">Pedometer - Steps, Maximum Acceleration, and Distance </h1>
-## Introduction
-
+## <h1 align="center">Pedometer - Steps, Maximum Acceleration, and Distance </h1>
+### Introduction
 According to health professionals, daily walking and running is essential for living a healthy life. It helps us in the following manners\
 
 ● increased heart and lung fitness
