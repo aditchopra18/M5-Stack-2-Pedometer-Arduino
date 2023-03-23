@@ -37,8 +37,8 @@ The implementation of the entire project is detailed below. It has explanations 
 
 ### Headers Files and Declaration of Variables
 ● "M5Core2.h" is imported\
-Variables declared and used are:\
-● accX, accY, accZ: Float data type variables to store the accelerometer sensor data.
-● step: Float data type variable to stores the number of steps taken by user
-● max_acc: Float data type variable to stores the maximum acceleration of the user
-● distance: Float data type variable to store the distance travelled by user
+Variables declared and used are:
+● accX, accY, accZ: Float data type variables to store the accelerometer sensor data.\
+● step: Float data type variable to stores the number of steps taken by user\
+● max_acc: Float data type variable to stores the maximum acceleration of the user\
+● distance: Float data type variable to store the distance travelled by user\
