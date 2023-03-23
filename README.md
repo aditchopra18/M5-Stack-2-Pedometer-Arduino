@@ -1,12 +1,20 @@
 <h1 align="center">Pedometer - Steps, Maximum Acceleration, and Distance </h1>
 ## Introduction
+
 According to health professionals, daily walking and running is essential for living a healthy life. It helps us in the following manners\
+
 ● increased heart and lung fitness
+
 ● lower risk of heart disease and stroke.
+
 ● better management of conditions such as hypertension (high blood pressure), high cholesterol, joint and muscular pain, and diabetes
+
 ● stronger bones and improved balance
+
 ● increased muscle strength and endurance
+
 ● decreased body fat
+
 Pedometers are inexpensive and dependable. Anyone, from children to adults, can easily wear track their running and walking activity through pedometers.
 
 ## Project Description
