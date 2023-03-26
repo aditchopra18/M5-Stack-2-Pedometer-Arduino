@@ -67,7 +67,7 @@ In order to identify the part of the code which is causing the error, I would co
 - ACCURATE : The distance calculated is accurate up to 1/100th of a meter.
 - SIMPLE TO USE : The one-touch reset button and its accuracy make this project a cheaper and an easier alternative to the existing Pedometers.
 
-## POTENTIAL FUTURE DEVELOPMENTS
+## Potential Future Developments
 - By including additional libraries, we can even measure the heart rate of the individual by maybe measuring the pulse and filtering the data and showing it on the screen
 - By taking the input of weight from the user, we can even show the number of calories burnt by the person during his/her journey.
 - By including other libraries, we can take the input from user about the target steps/distance they want to achieve and play a ding-dong sound or vibrate when the target is achieved.
