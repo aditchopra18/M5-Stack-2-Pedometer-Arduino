@@ -1,7 +1,5 @@
 /*
-Authors - Adit Chopra, Azaz ur Rehman Nasir, Sarah Farhat
-FINAL TERM PROJECT: Catch me if you can!
-ENGR-UH-1000 Computer Programming for Engineers
+Authors - Adit Chopra
 Date created: 13 October, 2021
 Problem Statement: 
 The program must take real time input of the orientation and accelaration of the M5 Core2 device
